@@ -5,3 +5,8 @@
 * Pivot triggers: https://pivot-triggers.com/
 * Design sprints
 * more on the politics side
+* Discover by doing. Practice, learn, reflect
+* Plant diagrams to track what you're doing
+* focus on learning lots in short bursts. Select most promising. Dive deeper
+* Data and metrics. Really learn: don't assume.
+ 
