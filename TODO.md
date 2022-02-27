@@ -9,4 +9,6 @@
 * Plant diagrams to track what you're doing
 * focus on learning lots in short bursts. Select most promising. Dive deeper
 * Data and metrics. Really learn: don't assume.
- 
+* Fowler: Lean Inception: https://martinfowler.com/articles/lean-inception/
+* OKRs as framing
+* How to write OKRs that don't suck: https://www.mindtheproduct.com/how-to-write-okrs-that-dont-suck-by-adrian-howard/
