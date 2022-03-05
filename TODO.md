@@ -12,3 +12,4 @@
 * Fowler: Lean Inception: https://martinfowler.com/articles/lean-inception/
 * OKRs as framing
 * How to write OKRs that don't suck: https://www.mindtheproduct.com/how-to-write-okrs-that-dont-suck-by-adrian-howard/
+* ux. making sure they have input. Stopping more idealistic thinking that we can’t start until all research is done.
