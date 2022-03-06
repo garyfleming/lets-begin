@@ -13,3 +13,6 @@
 * OKRs as framing
 * How to write OKRs that don't suck: https://www.mindtheproduct.com/how-to-write-okrs-that-dont-suck-by-adrian-howard/
 * ux. making sure they have input. Stopping more idealistic thinking that we can’t start until all research is done.
+* A theme: can mean lots of meetings but that's not a bad thing. There are bad meetings but can be effective. Focus on learning.
+* meetings are where the decisions happen: https://twitter.com/polotek/status/1500229729671999489
+* meetings are real work: https://twitter.com/yvonnezlam/status/1500143379954290689
