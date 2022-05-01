@@ -17,3 +17,4 @@
 * meetings are where the decisions happen: https://twitter.com/polotek/status/1500229729671999489
 * meetings are real work: https://twitter.com/yvonnezlam/status/1500143379954290689
 * cynefin inflected. Different states need different discovery. Dynamics to move between. Capability red?
+* Don't try as regular sprint: it's different. What ceremonies will support rapid discovery?

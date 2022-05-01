@@ -32,6 +32,12 @@ I'll also introduce a selection of prompts, questions, and challenges that I've 
 
 Finally, I hope to also talk about how  to bring clarity to expectations around Discovery, while removing some of the power dynamics that can prove problematic.
 
+## 75-80 word summary
+
+Getting started on new work is hard. Like a writer struggling with a blank page, teams facing new problems often don't know where to begin. Or there are so many ideas to explore and directions that could be taken, the work feels untamable; the team gets paralysed through lack of a clear starting point.
+
+Let me offer you some some tools, techniques, prompts, sympathy, and direction to help you get started with Discovery. Let me show you how to begin.
+
 
 ## History
 
