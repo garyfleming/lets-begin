@@ -18,3 +18,5 @@
 * meetings are real work: https://twitter.com/yvonnezlam/status/1500143379954290689
 * cynefin inflected. Different states need different discovery. Dynamics to move between. Capability red?
 * Don't try as regular sprint: it's different. What ceremonies will support rapid discovery?
+* Frame: not being able to write. Blank page. Blank slate. Adaptation for this talk.
+* _What_ are you trying to discover? be clear! An approach that works? Information about a product? Enough roadmap to get started? What kind of roadmap?
