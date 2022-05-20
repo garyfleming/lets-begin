@@ -21,3 +21,4 @@
 * Frame: not being able to write. Blank page. Blank slate. Adaptation for this talk.
 * _What_ are you trying to discover? be clear! An approach that works? Information about a product? Enough roadmap to get started? What kind of roadmap?
 * alongside knowing what you want, remember to apply agility. This is all negotiable. It changes. Think about applying INVEST in this context
+* bias to action. Something you can show. Walking skeleton.
