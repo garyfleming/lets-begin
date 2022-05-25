@@ -1,9 +1,20 @@
 # Possible TODOs.
 
-* Break this up: Let’s Begin. Discovering Discovery. Teams, discover, scale. Ideas, prompts, techniques for early phase conversations, team building, and trying to align. What works. What doesn’t. Communication patterns. Inception. Spikes. Experiments. Avoiding indecision. Promoting scaling through separation.
+
+* Teams, discover, scale.
+* Ideas, prompts, techniques for early phase conversations, team building,
+* trying to align.
+* What works. What doesn’t. 
+* Communication patterns.
+* Inception. Spikes. Experiments.
+* Avoiding indecision. 
+* Promoting scaling through separation.
+* Good definition https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works
 * Pre-mortems: 
 * Pivot triggers: https://pivot-triggers.com/
+* Pivot triggers: https://tomkerwin.substack.com/p/pivot-triggers-cheat-sheet-for-if?s=r
 * Design sprints
+* workshop: A3 individually to figure out purpose. Bring together
 * more on the politics side
 * Discover by doing. Practice, learn, reflect
 * Plant diagrams to track what you're doing
@@ -22,3 +33,10 @@
 * _What_ are you trying to discover? be clear! An approach that works? Information about a product? Enough roadmap to get started? What kind of roadmap?
 * alongside knowing what you want, remember to apply agility. This is all negotiable. It changes. Think about applying INVEST in this context
 * bias to action. Something you can show. Walking skeleton.
+* Cynefin: discovery can be thought of as a dynamics that moves us from unknown to known, contextualising our work
+* Stuff we know how to do (largely): user story mapping to lay it out, find the gaps
+* Split the chunky parts of the problem between knowns and unknowns. Treat them differently. Go after unknowns first: they'll reshape your work.
+* Game of life: initial conditions having overwhelming influence over outcomes. That's why this is political. Think about how to counteract.
+* Political: "Who controls the past, controls the future. Who controls the present, controls the past" Orwell (and then Rage.)
+* Frame around two teams (or more) with different issues. One known, one unknown, one political. Maybe compare afterwards what would have happened if you had picked the wrong solution for each?
+* Is there something in the "What is discovery section?" that would be like explorers/conquerors finding a new land. Initially present is heroic, but then go into why it's usually not a good thing, because that wasn't new land and you're doing something not so good.
