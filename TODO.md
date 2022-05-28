@@ -10,13 +10,14 @@
 * Avoiding indecision. 
 * Promoting scaling through separation.
 * Good definition https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works
-* Pre-mortems: 
+* Pre-mortems: how will  we fail? What causes that? Possibility trees. Work backwards, then forwards, repeat, loop. How do we mitigate? etc
 * Pivot triggers: https://pivot-triggers.com/
 * Pivot triggers: https://tomkerwin.substack.com/p/pivot-triggers-cheat-sheet-for-if?s=r
 * Design sprints
 * workshop: A3 individually to figure out purpose. Bring together
 * more on the politics side
 * Discover by doing. Practice, learn, reflect
+* NOT trying to learn everything upfront. That's not possible. You're figuring out risks.
 * Plant diagrams to track what you're doing
 * focus on learning lots in short bursts. Select most promising. Dive deeper
 * Data and metrics. Really learn: don't assume.
@@ -40,3 +41,8 @@
 * Political: "Who controls the past, controls the future. Who controls the present, controls the past" Orwell (and then Rage.)
 * Frame around two teams (or more) with different issues. One known, one unknown, one political. Maybe compare afterwards what would have happened if you had picked the wrong solution for each?
 * Is there something in the "What is discovery section?" that would be like explorers/conquerors finding a new land. Initially present is heroic, but then go into why it's usually not a good thing, because that wasn't new land and you're doing something not so good.
+* OKRs to anchor direction
+* What is this not?
+* What will it look like when I've finished discovery? What artifacts will I be holding? 
+* ARtifacts are important, conversations more important. ARtifacts useful only to the extent that they facillitate and prompt further conversation, as well as embody parts of that conversation. Enough to remember, but not constrain. 
+* This is why things like JIRA can be problematic: if filling in or reading tickets is replacing conversations, you've got a problem. If you're demanding certain fields are mandatory in all circumstances, you need to be sure you understand the tradeoffs (away from conversations). If you're doing those things to capture conversations in as light a format as possible, great.
