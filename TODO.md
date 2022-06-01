@@ -30,8 +30,9 @@
 * meetings are real work: https://twitter.com/yvonnezlam/status/1500143379954290689
 * cynefin inflected. Different states need different discovery. Dynamics to move between. Capability red?
 * Don't try as regular sprint: it's different. What ceremonies will support rapid discovery?
-* Frame: not being able to write. Blank page. Blank slate. Adaptation for this talk.
+
 * _What_ are you trying to discover? be clear! An approach that works? Information about a product? Enough roadmap to get started? What kind of roadmap?
+  
 * alongside knowing what you want, remember to apply agility. This is all negotiable. It changes. Think about applying INVEST in this context
 * bias to action. Something you can show. Walking skeleton.
 * Cynefin: discovery can be thought of as a dynamics that moves us from unknown to known, contextualising our work
@@ -46,3 +47,7 @@
 * What will it look like when I've finished discovery? What artifacts will I be holding? 
 * ARtifacts are important, conversations more important. ARtifacts useful only to the extent that they facillitate and prompt further conversation, as well as embody parts of that conversation. Enough to remember, but not constrain. 
 * This is why things like JIRA can be problematic: if filling in or reading tickets is replacing conversations, you've got a problem. If you're demanding certain fields are mandatory in all circumstances, you need to be sure you understand the tradeoffs (away from conversations). If you're doing those things to capture conversations in as light a format as possible, great.
+* When to stop discovery? what constraints?
+* What does this look like practically? No one way. Agile is about arming yourself with tools and recipes, but knowing you'll need to improvise to meet your own needs. Cynefin as a lens for this.
+* Break out of regular sprints: you need to do stuff faster than you were before. If you were doing two week sprints, that's probably not what you should do now,
+* Ceremonies: retrospectives (is process working? What can we improve? Turn up the good?), daily playback (what we learned in the last day - show more than tell. Use that to figure out what to do next)
