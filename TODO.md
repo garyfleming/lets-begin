@@ -36,7 +36,7 @@
 * alongside knowing what you want, remember to apply agility. This is all negotiable. It changes. Think about applying INVEST in this context
 * bias to action. Something you can show. Walking skeleton.
 * Cynefin: discovery can be thought of as a dynamics that moves us from unknown to known, contextualising our work
-* Stuff we know how to do (largely): user story mapping to lay it out, find the gaps
+
 * Split the chunky parts of the problem between knowns and unknowns. Treat them differently. Go after unknowns first: they'll reshape your work.
 * Game of life: initial conditions having overwhelming influence over outcomes. That's why this is political. Think about how to counteract.
 * Political: "Who controls the past, controls the future. Who controls the present, controls the past" Orwell (and then Rage.)
@@ -44,10 +44,5 @@
 * Is there something in the "What is discovery section?" that would be like explorers/conquerors finding a new land. Initially present is heroic, but then go into why it's usually not a good thing, because that wasn't new land and you're doing something not so good.
 * OKRs to anchor direction
 * What is this not?
-* What will it look like when I've finished discovery? What artifacts will I be holding? 
-* ARtifacts are important, conversations more important. ARtifacts useful only to the extent that they facillitate and prompt further conversation, as well as embody parts of that conversation. Enough to remember, but not constrain. 
-* This is why things like JIRA can be problematic: if filling in or reading tickets is replacing conversations, you've got a problem. If you're demanding certain fields are mandatory in all circumstances, you need to be sure you understand the tradeoffs (away from conversations). If you're doing those things to capture conversations in as light a format as possible, great.
-* When to stop discovery? what constraints?
-* What does this look like practically? No one way. Agile is about arming yourself with tools and recipes, but knowing you'll need to improvise to meet your own needs. Cynefin as a lens for this.
-* Break out of regular sprints: you need to do stuff faster than you were before. If you were doing two week sprints, that's probably not what you should do now,
-* Ceremonies: retrospectives (is process working? What can we improve? Turn up the good?), daily playback (what we learned in the last day - show more than tell. Use that to figure out what to do next)
+---
+* Need ways of knowing what problem you're not solving. Simple prompts? Strategy? Workshop?

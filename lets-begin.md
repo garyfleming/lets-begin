@@ -146,6 +146,127 @@ And here's the thing, you're going to do these things all at the same time, in a
 
 ---
 
+But what to do?
+
+^ TODO cat picture
+^ That's a lot of big vague words, but you're a busy person and need to actually do something. Scrum has this big guide, with ceremonies, and roles, and a whole thing to follow. Can you have something like that, but for discovery?
+
+---
+
+No. 
+
+---
+
+No. (Maybe?)
+
+^ Well, maybe something. Effective Agile is about arming yourself with tools and recipes, and trying them against problems. Then being honest about yourself with their shortfalls, imagining/learning new tools, and trying those. 
+
+
+^ TODO image turning this into a cycle
+
+---
+
+^ Cynefin is a lens for this. It can help figure out appropriate approaches to take depending on what you know and what you don't know.
+
+
+---
+
+^ TODO lightly explain Cynefin, while apologising for next explaining it. Important to talk about the primary domains. Can largely ignore chaos.
+
+
+---
+
+^ TODO consider using Capability Red to simplify
+
+
+
+---
+
+^ TODO one possibility: take a dynamic approach.
+^ Easy. Clear domain and starying there. Just Do It (nike logo). You already know what 
+
+---
+
+^ TODO other possibility just take about known/ordered vs unknown.
+^ TODO decide whether to interweave or not. Leaning towards not.
+
+^ Ordered (Known). If you know conceptually what most of the work is and you think you'd be able to do it without much learning, and you're mostly focussing on surfacing that knowledge.
+
+---
+
+^ TODO what unordered is
+
+---
+
+^ Ordered (known). 
+^ TODO User story mapping. Explain why you'd use it, what it is, how you do it, briefly. Don't need to know everything. Helps surface.
+^ What is this not: use MVP line. Iterate. Not enough: need something 
+
+---
+
+^ unordered
+^ TODO much bigger bit. 
+
+* Break out of regular sprints: you need to do stuff faster than you were before. If you were doing two week sprints, that's probably not what you should do now,
+* Ceremonies: retrospectives (is process working? What can we improve? Turn up the good?), daily playback (what we learned in the last day - show more than tell. Use that to figure out what to do next)
+
+---
+
+^ Ordered (known)
+^ TODO Roadmap. Delivery focussed. Options.
+
+
+
+--- 
+
+^ Unordered
+^ TODO Roadmap. Strategy focussed. Decision points coming up: less clarity further out, caused by time, money, information. "By the time we reach here we need to know X. How do we do set ourselves up to have that data?"
+
+
+---
+
+^ TODO split problems between knowns and unknowns! You can do both.
+
+---
+
+
+
+---
+
+---
+
+^ TODO when to stop. 
+* When to stop discovery? what constraints?
+* What will it look like when I've finished discovery? 
+
+---
+^ TODO when to stop. 
+  What artifacts will I be holding? 
+* ARtifacts are important, conversations more important. ARtifacts useful only to the extent that they facillitate and prompt further conversation, as well as embody parts of that conversation. Enough to remember, but not constrain. 
+* This is why things like JIRA can be problematic: if filling in or reading tickets is replacing conversations, you've got a problem. If you're demanding certain fields are mandatory in all circumstances, you need to be sure you understand the tradeoffs (away from conversations). If you're doing those things to capture conversations in as light a format as possible, great.
+
+---
+^ TODO when to stop. 
+^ TODO Think through this in terms of your roadmap and needs. Do you know enough to achieve goals. Make progress to next decision point. Out of time.
+
+---
+
+
+
+---
+
+^ TODO political (consider moving much earlier)
+* Political: "Who controls the past, controls the future. Who controls the present, controls the past" Orwell (and then Rage.)
+In a sense of sociotechnical dynamics, Discovery is about using the past and present to control the future. This scares people. Can push them to weigh in too heavily, shut options early.
+
+Ways around this? Yes and. No stupid ideas.
+Data-driven, not opinions.
+Probes that check.
+TODO MORE
+
+--
+
+---
 # Slide Title
 
 ^ Presenter notes
