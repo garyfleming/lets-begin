@@ -39,7 +39,7 @@
 
 * Split the chunky parts of the problem between knowns and unknowns. Treat them differently. Go after unknowns first: they'll reshape your work.
 * Game of life: initial conditions having overwhelming influence over outcomes. That's why this is political. Think about how to counteract.
-* Political: "Who controls the past, controls the future. Who controls the present, controls the past" Orwell (and then Rage.)
+* "Retrospectives are planning. You cannot know what to do without know[ing] what you have done." https://twitter.com/ourfounder/status/1532101001947369473
 * Frame around two teams (or more) with different issues. One known, one unknown, one political. Maybe compare afterwards what would have happened if you had picked the wrong solution for each?
 * Is there something in the "What is discovery section?" that would be like explorers/conquerors finding a new land. Initially present is heroic, but then go into why it's usually not a good thing, because that wasn't new land and you're doing something not so good.
 * OKRs to anchor direction

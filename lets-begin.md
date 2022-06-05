@@ -2,6 +2,10 @@ theme: Sketchnote, 1
 
 ![](images/paper.jpg)
 
+^ INTERNAL PRELUDE:
+^ This is a conference talk. Not about discovery in our context or, really, anyone's. It's ideas to inspire and show what's possible.
+^ Draft: first time. I want feedback. Whats interesting, confusing, more of, ditch. Ordering issues.
+
 ---
 
 ^ ☕🍌🧁
@@ -11,7 +15,6 @@ theme: Sketchnote, 1
 
 ^ Adaptation: To begin... To begin... How to start? I'm hungry. I should get coffee. Coffee would help me think. Maybe I should write something first, then reward myself with coffee. Coffee and a muffin. Okay, so I need to establish the themes. Maybe a banana-nut. That's a good muffin.
 
-^ TODO make this bg white, or lined paper
 
 ---
 
@@ -22,9 +25,6 @@ theme: Sketchnote, 1
 
 ^ Relax. This is normal. Discovery is difficult, sometimes political, and always exciting.
 
-^ TODO make this bg white, or lined paper
-
-
 ---
 
 # Let's Begin: Diving Into Discovery
@@ -33,7 +33,9 @@ theme: Sketchnote, 1
 
 ![](images/paper.jpg)
 
-^ My name is gary fleming, I *WAS* an agile coach but I'm getting better now. That said, every time I get out they drag me back in. 
+^ My name is gary fleming, I *WAS* an agile coach, running my own consultancy for about a decade, but I'm getting better now.
+In the context of [work] I'm [what I do at work]
+That said, every time I get out they drag me back in. 
 
 
 ---
@@ -42,11 +44,19 @@ theme: Sketchnote, 1
 
 ^ This talk is called Let's Begin: Diving into Discovery and it's about Discovery, and what I worked learning with a few teams. And it's important you understand something here, near the start.
 
+
+
+---
+
+# Disclaimer
+
+1) None of this happened at my current employer. My views are my own, and none of this represents anything that happens at JPMC (TODO pull actual wording)
+
 ---
 
 # I Am Lying
 
-^ Context: These teams were at different companies but I'm presenting them as if they were all at the same company, and I'm simplifying the stories a bit because reality is too mess for 45 minutes.
+^ Context: These teams were at different companies but I'm presenting them as if they were all at the same company, and I'm simplifying the stories a bit and shaving off the sharper edges because reality is too messy for 45 minutes.
 ^ Is that really a lie, though? You trust me, RIGHT? 
 ^ TODO consider putting you trust me, right on a separate slide with big cheese salesman grin.
 ^ TODO Is this still relevant? If we don't pick up the two companies thing later, take this out. If we do, make sure we do more setting up here. A slide or two of them coming to me with problems and the rest of the talk being a story to them rather than the audience
@@ -55,17 +65,17 @@ theme: Sketchnote, 1
 
 # Discovering Discovery
 
-^ TODO what is discovery. Why would you do it. Is it formal?
-
 ^ Let's start by tryig to figure out what discovery is, why you would do it, and what shape it takes?
-^ By that, I mean, is it a formal stringent process, or something else?
-^ (it's something else)
+^ By that, I mean, is it a formal stringent process where you do A then B or C, like a naive interpretation of the Scrum Guide
+^ or something else? (it's something else)
 
 ---
 
 ![](images/knot-heart.jpg)
 
 ^ TODO the something else it is a desired outcome that we can achieve through a bunch of agile tools tied together else?
+
+^ TODO what was this slide for again? Cut it.
 
 
 ---
@@ -91,10 +101,19 @@ Learning about...[^1]
 
  > **Before** you **commit** to building a service, you need to understand the problem that needs to be solved.
 
-^ Focus on the before and the commit. Discovery is fundamentally an act of product assessment and risk management: . You're learning what you can early enough so you can help manage expectations. What is possible anywhere, what is possible for you in your context, what is impossible (to some value of impossible), what might fail, what might succeed, where value might lie, where TODO
-^ You're taking a) figuring out the kind of outcome you might want
-^ and b) taking all of the infinite possibilities that lie before you and using various techniques to whittle down to a more manageable selection that are more disposited to achieving that goal
+^ Focus on the before and the commit. Discovery is fundamentally an act of product assessment and risk management. You're learning what you can early enough so you can help manage expectations. What is possible anywhere, what is possible for you in your context, what is impossible (to some value of impossible), what might fail, what might succeed, where value might lie, where 
 ^ TODO Make sure the quotes are standout. Different colour than other text?
+
+---
+
+* Outcomes
+* Possibility space exploration
+
+^ You're  a) figuring out the kind of outcome you might want
+^ and b) taking all of the infinite possibilities that lie before you and using various techniques to whittle down to a more manageable selection that are more dispositional to achieving that goal
+
+^ TODO does this tie into a later bit?
+
 
 ---
 
@@ -105,8 +124,10 @@ Learning about...[^1]
 
 ---
 
-^ An example: if you want to have a hit blockbuster action movie, and you cast someone who is pretty unknown it's not going to have much draw. That said, if you find the right person and have other good attributes (Tom Holland-spiderman), you can still be disposed to making money.
+^ An example: if you want to have a hit blockbuster action movie, and you cast someone who is pretty unknown it's not going to have much draw. For example, Jared Leto in Morbius. Known actor, not a big draw, not an action movie star. That said, if you find the right person and have other good attributes (Tom Holland-spiderman), you can still be disposed to making money.
 ^ Similarly, if you cast someone like Dwayne Johnson, it's got a pretty good chance of bringing people in on that alone. But there's always failures like Southland Tales ($350K on a $17m budget)
+^ That's what we mean by dispositional: not a guarantee, but a stronger likelihood.
+
 
 ^ TODO a grid of films with these actors
 
@@ -117,61 +138,156 @@ Learning about...[^1]
 
 ^ I've seen teams committed to deliver services and products that were basically impossible based on the whims and fancies of people very far away from the product. While there's no avoiding that in some orgs, it helps to be armed with the best knowledge, ideas, and most importantly data that you can as EARLY AS possible. While some managers will never take their fingers out of their ears and continue to demand the impossible, many/most will listen to reason backed by data and ideas. Let me reiterate: data and ideas are the way out of a bunch of bad situations.
 
+^ TODO this slide is way out of place.
+
 ---
 
-^ Importantly You are NOT trying to learn everything upfront. That's simply not possible. What you're trying to 
+[.header: #000000, alignment(center)]
 
-learn is enough to 
+![fit original](images/discovery-map-pre-A.jpg)
 
-a) be talk/think/act coherently within the domain. -- Can't really do much on, say, a mapping project, if you don't understand a bit about tilesets, granularity, potentially geometric issues, possibly routing algorithms. Don't need absolute knowledge, but you do need enough to be coherent.
+# Learn
 
-^ TODO ubiquitous language
+^ Importantly You are NOT trying to learn everything upfront. That's simply not possible, there's far too much stuff to learn in just about any discovery or domain that requires thought. What you're trying to learn is really four things.
 
-b) to find clear, coherent goals that'll help you ensure you're going in the right direction -- As you can speak/think about the domain in the terms of the domain, you can 
+---
 
-^ TODO OKRs, roadmaps. What kind of roadmap? Decision inflected
+[.header: #000000, alignment(center)]
 
-c) to explore the space so you can find risks and pathways forward, 
+![fit original](images/discovery-map-A.jpg)
 
-^ TODO bias to action
+# Domain
 
-d) to know what you're not doing.
+^ a) be talk/think/act coherently within the domain. -- Can't really do much on, say, a mapping project, if you don't understand a bit about tilesets, granularity, potentially geometric issues, possibly routing algorithms. Or AWS (IAM, security groups, lambda, dynamo etc) Don't need absolute knowledge, but you do need enough to be coherent.
+
+---
+
+^ TODO Drop in a bit about ubiquitous language here
+
+^ Some of that domain stuff is going to be names you're giving to ideas you're implementing. It helps to be consistent here and build a ubiquitous language... TODO finish this. What is UL, how do we enforce it.
+
+---
+
+[.header: #000000, alignment(center)]
+
+![fit original](images/discovery-map-B.jpg)
+
+# Goal(s)
+
+^ b) to find clear, coherent goals that'll help you ensure you're going in the right direction -- As you can speak/think about the domain in the terms of the domain, you can start to figure out your goals within that framework of understanding. "We initially want to achieve something like X, and Y and Z are kinda interesting too" "We know we've succeeded when..."
+
+^ TODO OKRs
+
+---
+
+[.header: #000000, alignment(center)]
+
+![fit original](images/discovery-map-C.jpg)
+
+# Explore
+
+^ c) to explore the space so you can find risks and pathways forward, 
+
+^ TODO bias to action, , roadmaps. What kind of roadmap? Decision inflected
+
+----
+
+[.header: #000000, alignment(center)]
+
+![fit original](images/discovery-map-D.jpg)
+
+# Nope
+
+^ d) to know what you're not doing.
 
 ^ TODO 
 
-And here's the thing, you're going to do these things all at the same time, in a swirling dynamic of learning; ping-ponging back and forward between language, and goals, and exploration, and editing, until... we'll get to that.
 
-^ TODO image getting built up: pre-a), empty space, a) items in the space, b) an area we want to reach in the space, c) squiggly arrow paths, d) red areas. P
+---
+
+[.header: #000000, alignment(center)]
+
+![fit original](images/discovery-map-D.jpg)
+
+# All At Once, Looping
+
+^ And here's the thing, you're going to do these things all at the same time, in a swirling dynamic of learning; The places not to go inform the places to go and the routes we might take and the domain we need to take interest in, which informs our understanding of our goals, which make certain paths dispositional... over and over until until... we'll get to that.
+
 
 
 ---
+
+[.text: text-scale(2.0)]
+
+![original](images/angry-cat.jpg)
 
 But what to do?
 
-^ TODO cat picture
-^ That's a lot of big vague words, but you're a busy person and need to actually do something. Scrum has this big guide, with ceremonies, and roles, and a whole thing to follow. Can you have something like that, but for discovery?
+^ That's a lot of big vague words, but you're a busy person and need to actually do something. Scrum has this big guide, with ceremonies, and roles, and a whole thing to follow. If you're naive, you could follow that dogmatically and at least you'd be doing something. It'd be terrible, but it'd be something. Can you have something like that, but for discovery?
 
 ---
+
+[.text: text-scale(2.0)]
+
+![original](images/sad-cat.jpg)
 
 No. 
 
+
 ---
+
+[.text: text-scale(2.0)]
+
+![original](images/sad-cat.jpg)
 
 No. (Maybe?)
 
-^ Well, maybe something. Effective Agile is about arming yourself with tools and recipes, and trying them against problems. Then being honest about yourself with their shortfalls, imagining/learning new tools, and trying those. 
-
-
-^ TODO image turning this into a cycle
+^ Well, maybe something. Effective Agile is about arming yourself with tools and recipes, and trying them against problems. Then being honest about yourself with their shortfalls, imagining/learning new tools, and trying those. These tools and recipes won't work for you in every situation. Have to find the right fit.
+^ There are processes out there for Discovery that do some of this in some contexts and work to some extent
 
 ---
+
+# Design Sprints
+
+* Map the problem
+* Sketch competing solutions
+* Decide
+* Couple of prototypes
+* Test
+
+^ Things like Design Sprints (5 days to prototype) are a handy tool (explain points). Each point has a fairly rigorous guide in the book Sprint, by Jake Knapp. If you have the right kind of problem (small, understood), it's a decent way of doing Discovery. 
+
+
+---
+
+# For other shapes and kinds of problems?
+
+^ What if we have problems that aren't small or well understood? What if we have problems that we need to explore a bit to understand, or that are chunky enough that we know it'll be too big for a week-long scope.
+
+
+---
+
 
 ^ Cynefin is a lens for this. It can help figure out appropriate approaches to take depending on what you know and what you don't know.
+^ Now, I'm not going to explain all of Cynefin, or the many ways you can use it. That'd be a full talk by itself. I'm going to explain a handful of concepts from it.
+^ Primarily it's a sense-making tool, not a categorisation tool. Not about where things live, but how to move things between them; that is the dynamics. (going light on dynamics too)
+^ TODO Cynefin image
+
+---
+
+# Ordered vs Unordered
+
+^ TODO add image
+^ Explain ordered vs unordered, and in particular between clear and complicated.
 
 
 ---
 
-^ TODO lightly explain Cynefin, while apologising for next explaining it. Important to talk about the primary domains. Can largely ignore chaos.
+# Experiment.
+
+^ TODO image of cynefin dynamics moving complex to complicated
+^ TODO safe to fail probes that give us more information
+^ 
 
 
 ---
@@ -225,6 +341,11 @@ No. (Maybe?)
 
 ---
 
+^ TODO Show all three images. Strategy roadmap, cynefin safe to fail dynamics, and explore map drawing from earlier. Point out that its not a coincidence that these things have similarity. That optionality and reacting dynamically based on information gained are the heart of meaningful discovery in unknown/complex spaces.
+
+
+---
+
 ^ TODO split problems between knowns and unknowns! You can do both.
 
 ---
@@ -264,19 +385,15 @@ Data-driven, not opinions.
 Probes that check.
 TODO MORE
 
---
-
----
-# Slide Title
-
-^ Presenter notes
 
 ---
 
-# Thank You
+# Thanks!
 
-![inline](images/cat3.gif)
+## ☕🍌🧁
 
 @garyfleming
+
+![](images/paper.jpg)
 
 ---
