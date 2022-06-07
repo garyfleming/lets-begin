@@ -10,7 +10,7 @@ theme: Sketchnote, 1
 
 ![](images/guinea-pirate.jpg)
 
-^ I want feedback. Whats interesting, confusing, more of, ditch. Ordering issues.
+^ I want feedback. Whats interesting, confusing, more of, ditch. Ordering issues. Most important: "I don't understand that"
 
 ---
 
@@ -56,16 +56,8 @@ That said, every time I get out they drag me back in.
 
 # Disclaimer
 
-1) None of this happened at my current employer. My views are my own, and none of this represents anything that happens at JPMC (TODO pull actual wording)
+1) None of this happened at my current employer. My views are my own etc (TODO pull actual wording)
 
----
-
-# I Am Lying
-
-^ Context: These teams were at different companies but I'm presenting them as if they were all at the same company, and I'm simplifying the stories a bit and shaving off the sharper edges because reality is too messy for 45 minutes.
-^ Is that really a lie, though? You trust me, RIGHT? 
-^ TODO consider putting you trust me, right on a separate slide with big cheese salesman grin.
-^ TODO Is this still relevant? If we don't pick up the two companies thing later, take this out. If we do, make sure we do more setting up here. A slide or two of them coming to me with problems and the rest of the talk being a story to them rather than the audience
 
 ---
 
@@ -75,13 +67,6 @@ That said, every time I get out they drag me back in.
 ^ By that, I mean, is it a formal stringent process where you if you do A then B then C you have completed discovery, like a naive interpretation of the Scrum Guide,
 ^ or something else? (it's something else)
 
----
-
-![](images/knot-heart.jpg)
-
-^ TODO the something else it is a desired outcome that we can achieve through a bunch of agile tools tied together else?
-
-^ TODO what was this slide for again? Cut it.
 
 
 ---
@@ -205,7 +190,7 @@ Learning about...[^1]
 
 ![fit original](images/discovery-map-A.jpg)
 
-# Domain
+# A. Domain
 
 ^ a) be talk/think/act coherently within the domain. -- Can't really do much on, say, a mapping project, if you don't understand a bit about tilesets, granularity, potentially geometric issues, possibly routing algorithms. Or AWS (IAM, security groups, lambda, dynamo etc) Don't need absolute knowledge, but you do need enough to be coherent.
 
@@ -215,7 +200,7 @@ Learning about...[^1]
 
 ![fit original](images/discovery-map-A.jpg)
 
-# Domain: Ubiquitous
+# A. Domain: Ubiquitous Language
 
 ^ Some of that domain stuff is going to be names you're giving to ideas you're implementing. It helps to be consistent here and build a ubiquitous language... TODO finish this. What is UL, how do we enforce it.
 
@@ -227,7 +212,7 @@ Learning about...[^1]
 
 ![fit original](images/discovery-map-B.jpg)
 
-# Goal(s)
+# B. Goal(s)
 
 ^ b) to find clear, coherent goals that'll help you ensure you're going in the right direction -- As you can speak/think about the domain in the terms of the domain, you can start to figure out your goals within that framework of understanding. "We initially want to achieve something like X, and Y and Z are kinda interesting too" "We know we've succeeded when..."
 
@@ -239,7 +224,7 @@ Learning about...[^1]
 
 ![fit original](images/discovery-map-C.jpg)
 
-# Explore
+# C. Explore
 
 ^ c) to explore the space so you can find risks and pathways forward, 
 
@@ -251,11 +236,11 @@ Learning about...[^1]
 
 ![fit original](images/discovery-map-D.jpg)
 
-# Nope
+# D. Nope
 
 ^ d) to know what you're not doing.
 
-^ TODO 
+^ TODO An important part of figuring out how to explore safely and heading towards your goal is to be clear about the things you're not going after, or at least not going after initially. This will keep you clear and focussed until there's a reason to expand. If you built a mapping application and decided you were focussing on hill walking routes, then you might say you're not interesting in detailed urban routes; less detail in city centres, rather than more. Less need for features on cafes, restaurants etc
 
 
 ---
@@ -264,7 +249,7 @@ Learning about...[^1]
 
 ![fit original](images/discovery-map-D.jpg)
 
-# All At Once, Looping
+# ABCD. All At Once, Looping
 
 ^ And here's the thing, you're going to do these things all at the same time, in a swirling dynamic of learning; The places not to go inform the places to go and the routes we might take and the domain we need to take interest in, which informs our understanding of our goals, which make certain paths dispositional... over and over until until... we'll get to that.
 
@@ -276,7 +261,7 @@ Learning about...[^1]
 
 ![original](images/angry-cat.jpg)
 
-But what to do?
+But what do?
 
 ^ That's a lot of big vague words, but you're a busy person and need to actually do something. Scrum has this big guide, with ceremonies, and roles, and a whole thing to follow. If you're naive, you could follow that dogmatically and at least you'd be doing something. It'd be terrible, but it'd be something. Can you have something like that, but for discovery?
 
@@ -297,7 +282,7 @@ No.
 
 No. (Maybe?)
 
-^ Well, maybe something. Effective Agile is about arming yourself with tools and recipes, and trying them against problems. Then being honest about yourself with their shortfalls, imagining/learning new tools, and trying those. These tools and recipes won't work for you in every situation. Have to find the right fit.
+^ Well, maybe something. Effective agility is about arming yourself with tools and recipes, and trying them against problems. Then being honest about yourself with their shortfalls, imagining/learning new tools, and trying those. These tools and recipes won't work for you in every situation. Have to find the right fit.
 ^ There are processes out there for Discovery that do some of this in some contexts and work to some extent
 
 ---
@@ -322,86 +307,113 @@ No. (Maybe?)
 
 ---
 
+![fit original](images/cynefin-full.jpg)
 
 ^ Cynefin is a lens for this. It can help figure out appropriate approaches to take depending on what you know and what you don't know.
 ^ Now, I'm not going to explain all of Cynefin, or the many ways you can use it. That'd be a full talk by itself. I'm going to explain a handful of concepts from it.
+
+
+---
+
+![fit original](images/cynefin-full.jpg)
+
+# ⚠️⚠️⚠️
+
+^ I have to give you a warning: if you go off and learn more about Cynefin, it can have dangerous side effects. It acts as a gateway drug to complexity thinking. Handle with care, and do NOT stare at the chaotic domain for too long.
+
+---
+
+![fit original](images/cynefin-full.jpg)
+
 ^ Primarily it's a sense-making tool, not a categorisation tool. Not about where things live, but how to move things between them; that is the dynamics. (going light on dynamics too)
-^ TODO Cynefin image
 
 ---
 
-# Ordered vs Unordered
+![fit original](images/cynefin-simple.jpg)
 
-^ TODO add image
-^ Explain ordered vs unordered, and in particular between clear and complicated.
-
+^ Let me strip a bunch of that away and focus on a few things, initially the difference between the ordered and unordered sides
+^ the RHS is Ordered. We can apply rules or exper
+^ Ordered solutions can be examined, evaluated, processified, turning into training... So there are reasonably predictable processes we can follow to work those solutions.
 
 ---
+
+# Ordered processes: User Story Mapping
+
+^ If you think you collectively have the expertise on-hand to solve the problem, then it might be as simple as building an initial user story map.
+^ Have everyone individually break down the problem, bring them together to create a collective view, group/dedupe, name the groups, order the groups, and argue about what's MVP based on your goals.
+^ Guide with UL, goals, and your nopes.
+
+^ TODO expand with USM examples/ images. MVP line focussed on goals. Building UL. Treat as simple roadmap.
+
+---
+
+# Ordered processes: User Story Mapping
+
+^ Importantly you don't have to know absolutely everything. Doing this process will help you focus on the things you know you know, and the things you know you don't know. You then get to treat the later the same way you'd treat anything else in unordered.
+
+---
+
+![fit original](images/cynefin-simple.jpg)
+
+^ Unordered solutions are where you know you don't know, but you think you could know.
+^ Unordered solutions can be examined for heuristics -> evaluating principles that achieve the goal, but very changeable, must be re-evaluated
+
+---
+
+[.header: #E6007E]
 
 # Experiment.
 
-^ TODO image of cynefin dynamics moving complex to complicated
-^ TODO safe to fail probes that give us more information
-^ 
+![fit original](images/cynefin-experiments.jpg)
 
-
----
-
-^ TODO consider using Capability Red to simplify
-
-
+^ You figure out these solutions by trying lots of safe-to-fail probes. Experiments. You go and do mini-versions and evaluate them against heuristics that guide you
+^ ZOOM AND ENHANCE
 
 ---
 
-^ TODO one possibility: take a dynamic approach.
-^ Easy. Clear domain and starying there. Just Do It (nike logo). You already know what 
+![fit original](images/cynefin-experiments-zoom.jpg)
+
+^ By trying different things that get us some data, we arm ourselves with options and close off pathways that we think will work. Eventually, we hopefully find some options to help us push our understanding from unordered (know we don't know) into ordered (know we know)
 
 ---
 
-^ TODO other possibility just take about known/ordered vs unknown.
-^ TODO decide whether to interweave or not. Leaning towards not.
+![fit original](images/cynefin-experiments.jpg)
 
-^ Ordered (Known). If you know conceptually what most of the work is and you think you'd be able to do it without much learning, and you're mostly focussing on surfacing that knowledge.
+[.header: #E6007E]
 
----
+# 1. Get it right.
 
-^ TODO what unordered is
 
----
 
-^ Ordered (known). 
-^ TODO User story mapping. Explain why you'd use it, what it is, how you do it, briefly. Don't need to know everything. Helps surface.
-^ What is this not: use MVP line. Iterate. Not enough: need something 
+^ It's important that we pick the right tools to apply. If you were to use an experimental approach on something you mostly collectively know, you're going to waste a lot of time.
+^ If you use an ordered approach (USM) on something you don't know, you'll fumble, feel lost, lose morale and wonder why it feels so hard.
 
 ---
 
-^ unordered
-^ TODO much bigger bit. 
+![fit original](images/cynefin-experiments.jpg)
 
-* Break out of regular sprints: you need to do stuff faster than you were before. If you were doing two week sprints, that's probably not what you should do now,
-* Ceremonies: retrospectives (is process working? What can we improve? Turn up the good?), daily playback (what we learned in the last day - show more than tell. Use that to figure out what to do next)
+[.header: #E6007E]
 
----
+# 2. Split it up.
 
-^ Ordered (known)
-^ TODO Roadmap. Delivery focussed. Options.
-
-
-
---- 
-
-^ Unordered
-^ TODO Roadmap. Strategy focussed. Decision points coming up: less clarity further out, caused by time, money, information. "By the time we reach here we need to know X. How do we do set ourselves up to have that data?"
-
+^ Most importantly, feel free to use both! Each for the right part. As you learn which parts are ordered/unordered, change your approach.
 
 ---
 
-^ TODO Show all three images. Strategy roadmap, cynefin safe to fail dynamics, and explore map drawing from earlier. Point out that its not a coincidence that these things have similarity. That optionality and reacting dynamically based on information gained are the heart of meaningful discovery in unknown/complex spaces.
+![fit original](images/cynefin-experiments.jpg)
+
+[.header: #E6007E]
+
+# 3. Move forward.
+
+^ Don't allow yourself to become paralysed by indecision. Whichever side you're on, you can either make progress on learning more, or doing more. It's fine to be cautious, but stopping rarely helps
 
 
----
 
-^ TODO split problems between knowns and unknowns! You can do both.
+
+
+
+
 
 ---
 
@@ -429,16 +441,6 @@ No. (Maybe?)
 
 
 
----
-
-^ TODO political (consider moving much earlier)
-* Political: "Who controls the past, controls the future. Who controls the present, controls the past" Orwell (and then Rage.)
-In a sense of sociotechnical dynamics, Discovery is about using the past and present to control the future. This scares people. Can push them to weigh in too heavily, shut options early.
-
-Ways around this? Yes and. No stupid ideas.
-Data-driven, not opinions.
-Probes that check.
-TODO MORE
 
 
 ---
@@ -452,3 +454,72 @@ TODO MORE
 ![](images/paper.jpg)
 
 ---
+
+
+---
+
+
+
+---
+
+
+---
+
+![](images/knot-heart.jpg)
+
+^ TODO the something else it is a desired outcome that we can achieve through a bunch of agile tools tied together else?
+
+^ TODO what was this slide for again? Cut it.
+
+
+---
+
+# I Am Lying
+
+^ Context: These teams were at different companies but I'm presenting them as if they were all at the same company, and I'm simplifying the stories a bit and shaving off the sharper edges because reality is too messy for 45 minutes.
+^ Is that really a lie, though? You trust me, RIGHT? 
+^ TODO consider putting you trust me, right on a separate slide with big cheese salesman grin.
+^ TODO Is this still relevant? If we don't pick up the two companies thing later, take this out. If we do, make sure we do more setting up here. A slide or two of them coming to me with problems and the rest of the talk being a story to them rather than the audience
+^ This was originally very near the start.
+
+
+
+---
+
+^ TODO consider using Capability Red to simplify
+
+---
+
+
+* Break out of regular sprints: you need to do stuff faster than you were before. If you were doing two week sprints, that's probably not what you should do now,
+* Ceremonies: retrospectives (is process working? What can we improve? Turn up the good?), daily playback (what we learned in the last day - show more than tell. Use that to figure out what to do next)
+
+
+---
+
+^ TODO political (consider moving much earlier)
+* Political: "Who controls the past, controls the future. Who controls the present, controls the past" Orwell (and then Rage.)
+In a sense of sociotechnical dynamics, Discovery is about using the past and present to control the future. This scares people. Can push them to weigh in too heavily, shut options early.
+
+Ways around this? Yes and. No stupid ideas.
+Data-driven, not opinions.
+Probes that check.
+TODO MORE
+
+---
+
+^ TODO Show all three images. Strategy roadmap, cynefin safe to fail dynamics, and explore map drawing from earlier. Point out that its not a coincidence that these things have similarity. That optionality and reacting dynamically based on information gained are the heart of meaningful discovery in unknown/complex spaces.
+
+
+
+---
+
+^ Ordered (known)
+^ TODO Roadmap. Delivery focussed. Options.
+
+
+
+--- 
+
+^ Unordered
+^ TODO Roadmap. Strategy focussed. Decision points coming up: less clarity further out, caused by time, money, information. "By the time we reach here we need to know X. How do we do set ourselves up to have that data?"

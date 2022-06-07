@@ -9,7 +9,6 @@
 * Inception. Spikes. Experiments.
 * Avoiding indecision. 
 * Promoting scaling through separation.
-* Good definition https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works
 * Pre-mortems: how will  we fail? What causes that? Possibility trees. Work backwards, then forwards, repeat, loop. How do we mitigate? etc
 * Pivot triggers: https://pivot-triggers.com/
 * Pivot triggers: https://tomkerwin.substack.com/p/pivot-triggers-cheat-sheet-for-if?s=r
