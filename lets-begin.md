@@ -408,38 +408,31 @@ No. (Maybe?)
 
 ^ Don't allow yourself to become paralysed by indecision. Whichever side you're on, you can either make progress on learning more, or doing more. It's fine to be cautious, but stopping rarely helps
 
+---
 
+![](images/stop.jpg)
 
-
-
+^ When should we stop discovering? What will it look like when we're done?
+^ Well, problems are done when they're done. Some never die, and should be in perpetual discovery, and some are tightly bounded.
 
 
 
 ---
 
+![](images/stop.jpg)
 
+> ...early and continuous delivery of valuable software.
 
----
-
----
-
-^ TODO when to stop. 
-* When to stop discovery? what constraints?
-* What will it look like when I've finished discovery? 
-
----
-^ TODO when to stop. 
-  What artifacts will I be holding? 
-* ARtifacts are important, conversations more important. ARtifacts useful only to the extent that they facillitate and prompt further conversation, as well as embody parts of that conversation. Enough to remember, but not constrain. 
-* This is why things like JIRA can be problematic: if filling in or reading tickets is replacing conversations, you've got a problem. If you're demanding certain fields are mandatory in all circumstances, you need to be sure you understand the tradeoffs (away from conversations). If you're doing those things to capture conversations in as light a format as possible, great.
-
----
-^ TODO when to stop. 
-^ TODO Think through this in terms of your roadmap and needs. Do you know enough to achieve goals. Make progress to next decision point. Out of time.
+^ In the short term, switch more focus away from discovery and into production as and when you believe you've learned enough to get value. Putting things into production IS one way of doing discovery. Do so safely.
+^ TODO t-this up into roadmaps for the middle part of the software journey
 
 ---
 
+![](images/stop.jpg)
 
+^ Stop when you believe the value to be mined from solutions is less than the cost to do it.
+^ Stop when you have produced the understanding you need to do all the work you'll ever do on product.
+^ Stop when it's done.
 
 
 
@@ -453,23 +446,30 @@ No. (Maybe?)
 
 ![](images/paper.jpg)
 
----
-
-
----
-
-
+^ I'm stopping because I'm done.
 
 ---
 
+
+---
+
+
+
+---
+
+## SPARE SLIDES AFTER HERE
+
+---
+
+### STARTER NONSENSE
 
 ---
 
 ![](images/knot-heart.jpg)
 
-^ TODO the something else it is a desired outcome that we can achieve through a bunch of agile tools tied together else?
+TODO the something else it is a desired outcome that we can achieve through a bunch of agile tools tied together else?
 
-^ TODO what was this slide for again? Cut it.
+TODO what was this slide for again? Cut it.
 
 
 ---
@@ -486,13 +486,51 @@ No. (Maybe?)
 
 ---
 
-^ TODO consider using Capability Red to simplify
+### ROADMAPS
+
+
+---
+
+Ordered (known)
+TODO Roadmap. Delivery focussed. Options.
+
+
+
+--- 
+
+Unordered
+TODO Roadmap. Strategy focussed. Decision points coming up: less clarity further out, caused by time, money, information. "By the time we reach here we need to know X. How do we do set ourselves up to have that data?"
+
+
+---
+
+TODO when to stop. 
+TODO Think through this in terms of your roadmap and needs. Do you know enough to achieve goals. Make progress to next decision point. Out of time.
+
+---
+
+TODO Show all three images. Strategy roadmap, cynefin safe to fail dynamics, and explore map drawing from earlier. Point out that its not a coincidence that these things have similarity. That optionality and reacting dynamically based on information gained are the heart of meaningful discovery in unknown/complex spaces.
+
+---
+
+### RANDO STUFF
+
+---
+
+TODO consider using Capability Red to simplify
 
 ---
 
 
 * Break out of regular sprints: you need to do stuff faster than you were before. If you were doing two week sprints, that's probably not what you should do now,
 * Ceremonies: retrospectives (is process working? What can we improve? Turn up the good?), daily playback (what we learned in the last day - show more than tell. Use that to figure out what to do next)
+
+---
+
+^ TODO when to stop. 
+  What artifacts will I be holding? 
+* ARtifacts are important, conversations more important. ARtifacts useful only to the extent that they facillitate and prompt further conversation, as well as embody parts of that conversation. Enough to remember, but not constrain. 
+* This is why things like JIRA can be problematic: if filling in or reading tickets is replacing conversations, you've got a problem. If you're demanding certain fields are mandatory in all circumstances, you need to be sure you understand the tradeoffs (away from conversations). If you're doing those things to capture conversations in as light a format as possible, great.
 
 
 ---
@@ -506,20 +544,9 @@ Data-driven, not opinions.
 Probes that check.
 TODO MORE
 
----
-
-^ TODO Show all three images. Strategy roadmap, cynefin safe to fail dynamics, and explore map drawing from earlier. Point out that its not a coincidence that these things have similarity. That optionality and reacting dynamically based on information gained are the heart of meaningful discovery in unknown/complex spaces.
 
 
 
----
-
-^ Ordered (known)
-^ TODO Roadmap. Delivery focussed. Options.
 
 
 
---- 
-
-^ Unordered
-^ TODO Roadmap. Strategy focussed. Decision points coming up: less clarity further out, caused by time, money, information. "By the time we reach here we need to know X. How do we do set ourselves up to have that data?"
