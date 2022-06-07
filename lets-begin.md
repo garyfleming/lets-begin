@@ -4,7 +4,13 @@ theme: Sketchnote, 1
 
 ^ INTERNAL PRELUDE:
 ^ This is a conference talk. Not about discovery in our context or, really, anyone's. It's ideas to inspire and show what's possible.
-^ Draft: first time. I want feedback. Whats interesting, confusing, more of, ditch. Ordering issues.
+^ Draft: first time, scrappy, incomplete, bumpy. You're my guinea-pirates
+
+---
+
+![](images/guinea-pirate.jpg)
+
+^ I want feedback. Whats interesting, confusing, more of, ditch. Ordering issues.
 
 ---
 
@@ -66,7 +72,7 @@ That said, every time I get out they drag me back in.
 # Discovering Discovery
 
 ^ Let's start by tryig to figure out what discovery is, why you would do it, and what shape it takes?
-^ By that, I mean, is it a formal stringent process where you do A then B or C, like a naive interpretation of the Scrum Guide
+^ By that, I mean, is it a formal stringent process where you if you do A then B then C you have completed discovery, like a naive interpretation of the Scrum Guide,
 ^ or something else? (it's something else)
 
 ---
@@ -99,10 +105,12 @@ Learning about...[^1]
 
 ---
 
+[.text-strong: #E6007E]
+
  > **Before** you **commit** to building a service, you need to understand the problem that needs to be solved.
 
-^ Focus on the before and the commit. Discovery is fundamentally an act of product assessment and risk management. You're learning what you can early enough so you can help manage expectations. What is possible anywhere, what is possible for you in your context, what is impossible (to some value of impossible), what might fail, what might succeed, where value might lie, where 
-^ TODO Make sure the quotes are standout. Different colour than other text?
+^ Focus on the before and the commit. Discovery is fundamentally an act of product assessment and risk management. You're learning what you can early enough so you can help manage expectations. What is possible anywhere, what is possible for you in your context, what is impossible (to some value of impossible), what might fail, what might succeed, where value might lie, where...
+
 
 ---
 
@@ -110,7 +118,7 @@ Learning about...[^1]
 * Possibility space exploration
 
 ^ You're  a) figuring out the kind of outcome you might want
-^ and b) taking all of the infinite possibilities that lie before you and using various techniques to whittle down to a more manageable selection that are more dispositional to achieving that goal
+^ and b) taking all of the infinite possibilities that lie before you and using various techniques to whittle down to a more manageable selection that are more *dispositional* to achieving that goal
 
 ^ TODO does this tie into a later bit?
 
@@ -124,21 +132,62 @@ Learning about...[^1]
 
 ---
 
-^ An example: if you want to have a hit blockbuster action movie, and you cast someone who is pretty unknown it's not going to have much draw. For example, Jared Leto in Morbius. Known actor, not a big draw, not an action movie star. That said, if you find the right person and have other good attributes (Tom Holland-spiderman), you can still be disposed to making money.
-^ Similarly, if you cast someone like Dwayne Johnson, it's got a pretty good chance of bringing people in on that alone. But there's always failures like Southland Tales ($350K on a $17m budget)
-^ That's what we mean by dispositional: not a guarantee, but a stronger likelihood.
+# Example
 
+^ An example: if you want to have a hit blockbuster action movie with a decent size budget but cast someone who hasn't led a major film AND you give them a bad script with an questionable IP...
 
-^ TODO a grid of films with these actors
+---
+
+![original fit](images/morbius.jpg)
+
+# It's Morbin' Time!
+
+^ You end up with a flop like Jared Leto In Morbius; he's not a proven action movie lead and probably won't be now.
+^ That said, if you find the right charistmatic unknown actor, and give them a proven IP within the framework of the most successful moneymaking cinematic project in history, it can work out just fine.
+
+---
+
+[.header: #E6007E, alignment(center)]
+
+![original fit](images/homecoming.jpg)
+
+# WHEEEEE!
+
+^ Spider-man *made* Tom Holland an incredibly bankable action star to the point that questionable films like Uncharted still made money.
+^ Now is that a guarantee that every Tom Holland action film will make money, even if he's paired with the star of another blockbuster franchise?
 
 
 ---
 
-^ TODO a whip. Maybe
+[.header: #E6007E, alignment(center)]
+
+![original fit](images/chaos-walking.jpg)
+
+# NOPE
+
+^ NO! Everyone who saw Chaos Walking knows that was an absolutely mess that lost at least $80m, and Tom Holland was lucky to walk away from that with a career.
+
+---
+
+# A SAFeR Example
+
+^ I'm disposed to say, for example, that SAFe is a mostly misapplied framework that large consultancies push to clueless enterprises as a "SAFe" way to make money by repeatedly selling the same old rope, rather than engaging in any meaningful change.
+^ That said, I will also occassionally say SAFe makes sense in your circumstances. I'm sure if you're doing it, it's definitely the latter
+
+---
+
+# Dispositionality is an indicator, not a guarantee
+
+^ ... a direction, a likelihood
+^ Where were we before this aside? Ah yes
+
+---
+
+[.text-strong: #E6007E]
+
+ > **Before** you **commit** to building a service, you need to understand the problem that needs to be solved.
 
 ^ I've seen teams committed to deliver services and products that were basically impossible based on the whims and fancies of people very far away from the product. While there's no avoiding that in some orgs, it helps to be armed with the best knowledge, ideas, and most importantly data that you can as EARLY AS possible. While some managers will never take their fingers out of their ears and continue to demand the impossible, many/most will listen to reason backed by data and ideas. Let me reiterate: data and ideas are the way out of a bunch of bad situations.
-
-^ TODO this slide is way out of place.
 
 ---
 
@@ -162,9 +211,15 @@ Learning about...[^1]
 
 ---
 
-^ TODO Drop in a bit about ubiquitous language here
+[.header: #000000, alignment(center)]
+
+![fit original](images/discovery-map-A.jpg)
+
+# Domain: Ubiquitous
 
 ^ Some of that domain stuff is going to be names you're giving to ideas you're implementing. It helps to be consistent here and build a ubiquitous language... TODO finish this. What is UL, how do we enforce it.
+
+^ TODO expand UL stuff here
 
 ---
 
