@@ -16,7 +16,7 @@ theme: Sketchnote, 1
 
 ^ ☕🍌🧁
 
-![hide](images/adaptation-trimmed.mp3)
+![hide](images/adaptation-trimmed-louder.mp3)
 ![](images/paper.jpg)
 
 ^ Adaptation: To begin... To begin... How to start? I'm hungry. I should get coffee. Coffee would help me think. Maybe I should write something first, then reward myself with coffee. Coffee and a muffin. Okay, so I need to establish the themes. Maybe a banana-nut. That's a good muffin.
@@ -337,17 +337,28 @@ No. (Maybe?)
 
 ---
 
+[.header: #E6007E, alignment(center)]
+
 # Ordered processes: User Story Mapping
 
-^ If you think you collectively have the expertise on-hand to solve the problem, then it might be as simple as building an initial user story map.
-^ Have everyone individually break down the problem, bring them together to create a collective view, group/dedupe, name the groups, order the groups, and argue about what's MVP based on your goals.
-^ Guide with UL, goals, and your nopes.
+![fit original](images/usm-1-page.jpg)
 
-^ TODO expand with USM examples/ images. MVP line focussed on goals. Building UL. Treat as simple roadmap.
+^ If you think you collectively have the expertise on-hand to solve the problem, then it might be as simple as building an initial user story map.
 
 ---
 
-# Ordered processes: User Story Mapping
+![fit original](images/usm-1-page.jpg)
+
+^ Have everyone individually break down the problem, bring them together to create a collective view, group/dedupe, name the groups, order the groups, and argue about what's MVP based on your goals.
+^ Guide with UL, goals, and your nopes.
+
+^ TODO expand with USM examples/ images. MVP line focussed on goals. Building UL. Treat as simple roadmap. Placeholder for now
+
+---
+
+[.header: #E6007E, alignment(center)]
+
+![fit original](images/usm-1-page.jpg)
 
 ^ Importantly you don't have to know absolutely everything. Doing this process will help you focus on the things you know you know, and the things you know you don't know. You then get to treat the later the same way you'd treat anything else in unordered.
 
