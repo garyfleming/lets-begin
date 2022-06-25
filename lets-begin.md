@@ -39,16 +39,15 @@ theme: Sketchnote, 1
 
 ![](images/paper.jpg)
 
-^ My name is gary fleming, I *WAS* an agile coach, running my own consultancy for about a decade, but I'm getting better now.
-In the context of [work] I'm [what I do at work]
-That said, every time I get out they drag me back in. 
+^ My name is gary fleming, I started as a developer, and then I  *WAS* an agile coach, running my own consultancy for about a decade. But I got better and went back to development. 
+Just when I thought I was done with agile... my org needed someone to act as an agility lead *sigh* click 
 
 
 ---
 
 ![inline](images/pull-me-back-in.gif)
 
-^ This talk is called Let's Begin: Diving into Discovery and it's about Discovery, and what I worked learning with a few teams. And it's important you understand something here, near the start.
+^ This talk is called Let's Begin: Diving into Discovery and it's about Discovery, and what I worked learning with a few teams at different organisations who were faced with superficially similar goals, but ended up taking radically different approaches
 
 
 

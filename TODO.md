@@ -45,3 +45,27 @@
 * What is this not?
 ---
 * Need ways of knowing what problem you're not solving. Simple prompts? Strategy? Workshop?
+
+
+## From feedback
+
+* Need a better wrap up section: the abrupt stop does not work
+* Better links at the end for stuff we don't explain, like Cynefin
+* Literally put the words cynefin on screen and offer a better link forward
+* Need a single developing example throughout: hill walking app
+* Strategy roadmaps and normal roadmaps. Can be timed together using rough increments. Overlay them. Do both. CUSTOMERS WANT BOTH
+* The three dispositional things should come together at the end. Bonus points for using literally the branching path picture
+* "Inexperienced people: take it into account" --> how exactly?
+* Stay purely factual on the film section
+* more concrete examples on how to progress in discovery for safe to fail experiments
+* More on artifacts. What should you be holding at the end?
+* Organisations struggle because "the delivery work is valued more than the learning work" - Jeff Gothelf -- Definitely get something about Discovery as learning in
+* Put something in at "all at once looping" about things like double diamond as a way of trying to make sense of that.
+
+
+
+## Other ideas
+
+* bit more on artifact
+* Maybe something about who? Persona's matter. They're not equal in terms of focus. Part of "B) Goals"?
+* Maybe produce a quick cheat sheet?
