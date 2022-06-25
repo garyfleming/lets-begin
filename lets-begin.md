@@ -47,7 +47,7 @@ Just when I thought I was done with agile... my org needed someone to act as an 
 
 ![inline](images/pull-me-back-in.gif)
 
-^ This talk is called Let's Begin: Diving into Discovery and it's about Discovery, and what I worked learning with a few teams at different organisations who were faced with superficially similar goals, but ended up taking radically different approaches
+^ This talk is called Let's Begin: Diving into Discovery and it's about Discovery, and what I worked learning with a few teams at different organisations who were faced with superficially similar goals, but ended up taking radically different approaches.
 
 
 
@@ -126,7 +126,7 @@ Learning about...[^1]
 
 # It's Morbin' Time!
 
-^ You end up with a flop like Jared Leto In Morbius; he's not a proven action movie lead and probably won't be now.
+^ You end up with a flop like Morbius, with Jared Leto; he's not a proven action movie lead.
 ^ That said, if you find the right charistmatic unknown actor, and give them a proven IP within the framework of the most successful moneymaking cinematic project in history, it can work out just fine.
 
 ---
@@ -137,8 +137,8 @@ Learning about...[^1]
 
 # WHEEEEE!
 
-^ Spider-man *made* Tom Holland an incredibly bankable action star to the point that questionable films like Uncharted still made money.
-^ Now is that a guarantee that every Tom Holland action film will make money, even if he's paired with the star of another blockbuster franchise?
+^ Spider-man *made* Tom Holland an incredibly bankable action star to the point that many other films he's in, like Uncharted, do better than they might because he's in them. 
+^ Now is that a guarantee that every Tom Holland action film will make money, even if he's paired with Daisley Ridley the star of another blockbuster franchise?
 
 
 ---
@@ -149,7 +149,7 @@ Learning about...[^1]
 
 # NOPE
 
-^ NO! Everyone who saw Chaos Walking knows that was an absolutely mess that lost at least $80m, and Tom Holland was lucky to walk away from that with a career.
+^ NO! Most of you probably don't recognise this film FROM LAST YEAR. Chaos Walking did terribly: it lost at least $80m
 
 ---
 
@@ -318,7 +318,7 @@ No. (Maybe?)
 
 # ⚠️⚠️⚠️
 
-^ I have to give you a warning: if you go off and learn more about Cynefin, it can have dangerous side effects. It acts as a gateway drug to complexity thinking. Handle with care, and do NOT stare at the chaotic domain for too long.
+^ I have to give you a warning: if you go off and learn more about Cynefin, it can have dangerous side effects. It acts as a gateway drug to complexity thinking. Handle with care, speak to a professional before any shallow dives into Chaos, and do not stare directly at aporia.
 
 ---
 
@@ -376,7 +376,7 @@ No. (Maybe?)
 
 ![fit original](images/cynefin-experiments.jpg)
 
-^ You figure out these solutions by trying lots of safe-to-fail probes. Experiments. You go and do mini-versions and evaluate them against heuristics that guide you
+^ You figure out these solutions by trying lots of safe-to-fail probes. Experiments. You go and do mini-experiments and evaluate them against heuristics that guide you
 ^ ZOOM AND ENHANCE
 
 ---
@@ -417,6 +417,87 @@ No. (Maybe?)
 # 3. Move forward.
 
 ^ Don't allow yourself to become paralysed by indecision. Whichever side you're on, you can either make progress on learning more, or doing more. It's fine to be cautious, but stopping rarely helps
+
+---
+
+# Experiments? But I need Dates!
+
+![original](images/angry-dog.jpg)
+
+^ Now, some of you are probably thinking that all this talk of experiments and learning sounds great and all but you've got customers/stakeholders who expect results. They want dates, and deadlines, and roadmaps.
+
+---
+
+> "[Organisations struggle because] the delivery work is valued more than the learning work" -- Jeff Gothelf
+
+^ I think it was Jeff Gothelf who said this [read it]. He's right, you're being silly. Doing, doing, doing is a recipe for waste. You're often putting in a lot more effort into features/products that could've been eliminated with a simple experiment. We MUST learn. It's too risky and too costly not to learn.
+
+
+---
+
+^ The good news is that you can have your roadmap AND learning. They're not mutually exclusive. In fact in most circumstances you kinda need to have both.
+
+---
+
+^ TODO needs broken down and images.
+^ Let's inspect the metaphor for just a second. Have you ever seen a roadmap? One of the things you'll notice pretty quickly is that they have a bunch of branching options to get between two different points. Roadmaps have OPTIONALITY. A Roadmap without options is just a road.
+^ You might also argue that if you know where you're starting, and know where you're ending, that there is probably a preferred best route.
+^ That is there is a route when dealing with ORDERED planning (known knowns) that is disposed to being best.
+^ 
+
+^ Will it absolutely always be best? Probably not. Various unexpected things, like crashes or roadworks, will mean there are other better routes at any given time. Will we always know exactly where our destination is? Nope. So we need other techniques, and different techniques in each case.
+
+---
+
+# Ordered: Now Next later
+
+[.header: #E6007E, alignment(center)]
+
+![fit original](images/now-next-later.jpg)
+
+^ A now next later map is a reasonable style of roadmap to use, that doesn't necessarily have any dates on it, when dealing with something that's ordered. It's usually relative in time, rather than prescriptive...
+^ I prefer this 2d version: one axis for "urgency" (more urgent towards origin) and one for a different concern like "value" (more value towards origin).
+
+---
+
+
+![fit original](images/now-next-later-tickets.jpg)
+
+^ We can put our work into this framework at different levels of granularity and have conversations about tradeoffs.
+^ Too many in now? What needs moved out?
+^ Lots in later? Will they get done ever? Are they dream items? Can we remove them?
+^ "Stakeholder says something is URGENT but it's low value"
+
+---
+
+# Unordered: Strategic Roadmap
+
+[.header: #E6007E, alignment(center)]
+
+^ What if we don't know what to build i.e. we're doing something unordered?
+We know our current state, we've got an idea about our goals, and direction, but there's a lot of unknowns.
+^ We need a roadmap that helps with this
+
+![fit original](images/strategy.jpg)
+
+---
+
+
+^ This kind of strategic roadmap can be used. We can focus on experiments or other knowledge gathering work that will help us make the decisions we need to make. The vertical lines here represent decision points: points in our timeline where we know we're going to need to make a decision or have gathered enough knowledge about our goals so we can (these might be month or quarter markers). The purple circles might be experiments or outcomes that lead us forward,
+
+^ TODO more here
+
+![fit original](images/strategy.jpg)
+
+---
+
+
+^ TODO
+
+![fit original](images/now-next-later-strategy.jpg)
+
+^ We can overlay the views if we want. Gets busier, harder to use, but does let us ask: are the items we're working on necessary and sufficient to learn what we need to make decisions for our goals?
+
 
 ---
 
