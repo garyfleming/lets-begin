@@ -55,14 +55,16 @@ Just when I thought I was done with agile... my org needed someone to act as an 
 
 # Disclaimer
 
-1) None of this happened at my current employer. My views are my own etc (TODO pull actual wording)
+Opinions expressed in this talk are my own, and not representative of my employer's views.
+
+^ In fact, the exxperiences on which this talk are based happened before I started with the firm
 
 
 ---
 
 # Discovering Discovery
 
-^ Let's start by tryig to figure out what discovery is, why you would do it, and what shape it takes?
+^ Let's start by trying to figure out what discovery is, why you would do it, and what shape it takes?
 ^ By that, I mean, is it a formal stringent process where you if you do A then B then C you have completed discovery, like a naive interpretation of the Scrum Guide,
 ^ or something else? (it's something else)
 
@@ -435,15 +437,43 @@ No. (Maybe?)
 
 ---
 
+# Good news!
+
+![fit original](images/koda-happy.heic)
+
+[.header: #E6007E]
+
 ^ The good news is that you can have your roadmap AND learning. They're not mutually exclusive. In fact in most circumstances you kinda need to have both.
+^ You need learning that informs your delivery and delivery to inform what to learn next.
 
 ---
 
-^ TODO needs broken down and images.
-^ Let's inspect the metaphor for just a second. Have you ever seen a roadmap? One of the things you'll notice pretty quickly is that they have a bunch of branching options to get between two different points. Roadmaps have OPTIONALITY. A Roadmap without options is just a road.
+# Roadmaps
+
+[.header: #E6007E]
+
+![fit original](images/roadmaps.jpg)
+
+^ Let's inspect the metaphor for just a second. Have you ever seen a roadmap? One of the things you'll notice pretty quickly is that they have a bunch of branching options to get between two different points. Roadmaps have OPTIONALITY. What do we call a roadmap without options? A Road.
+
+---
+
+# Roadmaps
+
+[.header: #E6007E]
+
+![fit original](images/roadmaps.jpg)
+
 ^ You might also argue that if you know where you're starting, and know where you're ending, that there is probably a preferred best route.
 ^ That is there is a route when dealing with ORDERED planning (known knowns) that is disposed to being best.
-^ 
+
+---
+
+# Roadmaps
+
+[.header: #E6007E]
+
+![fit original](images/roadmaps.jpg)
 
 ^ Will it absolutely always be best? Probably not. Various unexpected things, like crashes or roadworks, will mean there are other better routes at any given time. Will we always know exactly where our destination is? Nope. So we need other techniques, and different techniques in each case.
 
@@ -467,10 +497,13 @@ No. (Maybe?)
 ^ Too many in now? What needs moved out?
 ^ Lots in later? Will they get done ever? Are they dream items? Can we remove them?
 ^ "Stakeholder says something is URGENT but it's low value"
+^ Focus on those conversations and feel. Not precision.
 
 ---
 
 # Unordered: Strategic Roadmap
+
+![fit original](images/strategy.jpg)
 
 [.header: #E6007E, alignment(center)]
 
@@ -478,21 +511,16 @@ No. (Maybe?)
 We know our current state, we've got an idea about our goals, and direction, but there's a lot of unknowns.
 ^ We need a roadmap that helps with this
 
-![fit original](images/strategy.jpg)
-
 ---
 
+![fit original](images/strategy.jpg)
 
 ^ This kind of strategic roadmap can be used. We can focus on experiments or other knowledge gathering work that will help us make the decisions we need to make. The vertical lines here represent decision points: points in our timeline where we know we're going to need to make a decision or have gathered enough knowledge about our goals so we can (these might be month or quarter markers). The purple circles might be experiments or outcomes that lead us forward,
 
-^ TODO more here
 
-![fit original](images/strategy.jpg)
 
 ---
 
-
-^ TODO
 
 ![fit original](images/now-next-later-strategy.jpg)
 
@@ -515,7 +543,7 @@ We know our current state, we've got an idea about our goals, and direction, but
 > ...early and continuous delivery of valuable software.
 
 ^ In the short term, switch more focus away from discovery and into production as and when you believe you've learned enough to get value. Putting things into production IS one way of doing discovery. Do so safely.
-^ TODO t-this up into roadmaps for the middle part of the software journey
+
 
 ---
 
@@ -525,6 +553,29 @@ We know our current state, we've got an idea about our goals, and direction, but
 ^ Stop when you have produced the understanding you need to do all the work you'll ever do on product.
 ^ Stop when it's done.
 
+
+---
+
+# SUMMARY
+
+- Domain, goal, explore, nope
+- Ordered vs unordered (Cynefin)
+- Know When To Stop (Keep learning)
+
+^ TODO make this explicit
+
+---
+
+## Secret Summary
+
+[.header: #E6007E, alignment(center)]
+
+![original fit](images/discovery-map-D.jpg)
+![original fit](images/cynefin-experiments-zoom.jpg)
+![original fit](images/strategy.jpg)
+
+^ But the actual secret message is to allow for optionality, use dispositionality, look at the world through complexity.
+^ Because straight lines in discovery are false confidence. We want roadmaps, not roads. Options, not false certainty.
 
 
 ---
@@ -538,6 +589,7 @@ We know our current state, we've got an idea about our goals, and direction, but
 ![](images/paper.jpg)
 
 ^ I'm stopping because I'm done.
+^ TODO add links
 
 ---
 

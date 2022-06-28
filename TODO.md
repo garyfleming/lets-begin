@@ -76,3 +76,5 @@
 * Too risky not to do learning
 * Add chapter breaks now it's got segments?
 * Roadmaps: Some tools that take a certainty and size based approach to roadmaps are pretty limited. No room to strategise, no other lenses, just "We think it's X big and we have capacity"
+
+* UPLOAD SLIDES TO SLIDESHARE
