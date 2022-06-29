@@ -40,6 +40,7 @@ theme: Sketchnote, 1
 ![](images/paper.jpg)
 
 ^ My name is gary fleming, I started as a developer, and then I  *WAS* an agile coach, running my own consultancy for about a decade. But I got better and went back to development. 
+Question policy (at end), movement, pain
 Just when I thought I was done with agile... my org needed someone to act as an agility lead *sigh* click 
 
 
@@ -57,7 +58,7 @@ Just when I thought I was done with agile... my org needed someone to act as an 
 
 Opinions expressed in this talk are my own, and not representative of my employer's views.
 
-^ In fact, the exxperiences on which this talk are based happened before I started with the firm
+^ In fact, the experiences on which this talk are based happened before I started with the firm
 
 
 ---
@@ -203,9 +204,8 @@ Learning about...[^1]
 
 # A. Domain: Ubiquitous Language
 
-^ Some of that domain stuff is going to be names you're giving to ideas you're implementing. It helps to be consistent here and build a ubiquitous language... TODO finish this. What is UL, how do we enforce it.
-
-^ TODO expand UL stuff here
+^ Some of that domain stuff is going to be names you're giving to ideas you're implementing. It helps to be consistent here and build a ubiquitous language. UL was solidified in DDD, but can/should be used in many teams. Find domain terms, use consistently, have one way. Lightly enforce.
+Ex. Map: square vs tile. 
 
 ---
 
@@ -216,6 +216,7 @@ Learning about...[^1]
 # B. Goal(s)
 
 ^ b) to find clear, coherent goals that'll help you ensure you're going in the right direction -- As you can speak/think about the domain in the terms of the domain, you can start to figure out your goals within that framework of understanding. "We initially want to achieve something like X, and Y and Z are kinda interesting too" "We know we've succeeded when..."
+"Walking app for hills, aligned to bagging munros with minimal repeated descents." "Might eventually do country hikes" "Succeeded when reasonable routes for all munros"
 
 ^ TODO OKRs
 
@@ -229,7 +230,7 @@ Learning about...[^1]
 
 ^ c) to explore the space so you can find risks and pathways forward, 
 
-^ TODO bias to action, , roadmaps. What kind of roadmap? Decision inflected
+^ bias to action, trying things, finding risks. roadmaps.
 
 ----
 
@@ -241,7 +242,7 @@ Learning about...[^1]
 
 ^ d) to know what you're not doing.
 
-^ TODO An important part of figuring out how to explore safely and heading towards your goal is to be clear about the things you're not going after, or at least not going after initially. This will keep you clear and focussed until there's a reason to expand. If you built a mapping application and decided you were focussing on hill walking routes, then you might say you're not interesting in detailed urban routes; less detail in city centres, rather than more. Less need for features on cafes, restaurants etc
+^ An important part of figuring out how to explore safely and heading towards your goal is to be clear about the things you're not going after, or at least not going after initially. This will keep you clear and focussed until there's a reason to expand. If you built a mapping application and decided you were focussing on hill walking routes, then you might say you're not interesting in detailed urban routes; less detail in city centres, rather than more. Less need for features on cafes, restaurants etc
 
 
 ---
