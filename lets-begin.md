@@ -265,7 +265,7 @@ Ex. Map: square vs tile.
 
 But what do?
 
-^ That's a lot of big vague words, but you're a busy person and need to actually do something. Scrum has this big guide, with ceremonies, and roles, and a whole thing to follow. If you're naive, you could follow that dogmatically and at least you'd be doing something. It'd be terrible, but it'd be something. Can you have something like that, but for discovery?
+^ That's a lot of big vague words, but you're a busy person and need to actually do something. Scrum has this big guide, with ceremonies, and roles, and a whole thing to follow. If you're naive, you could follow that dogmatically and at least you'd be doing something. It'd be terrible, but it might be something. Can you have something like that, but for discovery?
 
 ---
 
@@ -309,6 +309,10 @@ No. (Maybe?)
 
 ---
 
+# Cynefin
+
+[.header: #E6007E]
+
 ![fit original](images/cynefin-full.jpg)
 
 ^ Cynefin is a lens for this. It can help figure out appropriate approaches to take depending on what you know and what you don't know.
@@ -327,15 +331,16 @@ No. (Maybe?)
 
 ![fit original](images/cynefin-full.jpg)
 
-^ Primarily it's a sense-making tool, not a categorisation tool. Not about where things live, but how to move things between them; that is the dynamics. (going light on dynamics too)
+^ Primarily it's a sense-making tool, not a categorisation tool. Not about where things live, but how to move things between them, how we'd like them to act, and how we'd like to act with them; that is the dynamics. (going light on dynamics too)
 
 ---
 
 ![fit original](images/cynefin-simple.jpg)
 
 ^ Let me strip a bunch of that away and focus on a few things, initially the difference between the ordered and unordered sides
-^ the RHS is Ordered. We can apply rules or exper
+^ the RHS is Ordered. We can apply rules or expertise
 ^ Ordered solutions can be examined, evaluated, processified, turning into training... So there are reasonably predictable processes we can follow to work those solutions.
+^ might know how to layout map tiles. Rules around how to scale the map.
 
 ---
 
@@ -362,7 +367,7 @@ No. (Maybe?)
 
 ![fit original](images/usm-1-page.jpg)
 
-^ Importantly you don't have to know absolutely everything. Doing this process will help you focus on the things you know you know, and the things you know you don't know. You then get to treat the later the same way you'd treat anything else in unordered.
+^ Importantly you don't have to know absolutely everything. Doing this process will help you focus on the things you know you know, and the things you know you don't know. You then get to treat the later the same way you'd treat anything else in unordered... which I'll explain later... which is now.
 
 ---
 
@@ -370,6 +375,7 @@ No. (Maybe?)
 
 ^ Unordered solutions are where you know you don't know, but you think you could know.
 ^ Unordered solutions can be examined for heuristics -> evaluating principles that achieve the goal, but very changeable, must be re-evaluated
+^ Maybe we don't know how to do routing between points on a complex terrain map, but we can come up with a measure of effectiveness for routing algos (distance, rapid ascent/descent) and try them
 
 ---
 
@@ -387,6 +393,8 @@ No. (Maybe?)
 ![fit original](images/cynefin-experiments-zoom.jpg)
 
 ^ By trying different things that get us some data, we arm ourselves with options and close off pathways that we think will work. Eventually, we hopefully find some options to help us push our understanding from unordered (know we don't know) into ordered (know we know)
+^ ex. some branches might focus on distance, others on steepness. Might bring back aspects of both.
+^ Eventually we might grow enough expertise that it becomes ordered
 
 ---
 
@@ -590,7 +598,7 @@ We know our current state, we've got an idea about our goals, and direction, but
 ![](images/paper.jpg)
 
 ^ I'm stopping because I'm done.
-^ TODO add links
+^ Slides will be on twitter.
 
 ---
 
