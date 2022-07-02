@@ -41,4 +41,6 @@ Let me offer you some some tools, techniques, prompts, sympathy, and direction t
 
 ## History
 
-TODO history goes here.
+
+* Agile Cambridge, 29th June 2022
+* Agile on the Beach, 7th July 2022

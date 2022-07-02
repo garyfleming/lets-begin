@@ -1,19 +1,5 @@
 theme: Sketchnote, 1
 
-![](images/paper.jpg)
-
-^ INTERNAL PRELUDE:
-^ This is a conference talk. Not about discovery in our context or, really, anyone's. It's ideas to inspire and show what's possible.
-^ Draft: first time, scrappy, incomplete, bumpy. You're my guinea-pirates
-
----
-
-![](images/guinea-pirate.jpg)
-
-^ I want feedback. Whats interesting, confusing, more of, ditch. Ordering issues. Most important: "I don't understand that"
-
----
-
 ^ ☕🍌🧁
 
 ![hide](images/adaptation-trimmed-louder.mp3)
@@ -600,101 +586,6 @@ We know our current state, we've got an idea about our goals, and direction, but
 ^ I'm stopping because I'm done.
 ^ Slides will be on twitter.
 
----
-
-
----
-
-
-
----
-
-## SPARE SLIDES AFTER HERE
-
----
-
-### STARTER NONSENSE
-
----
-
-![](images/knot-heart.jpg)
-
-TODO the something else it is a desired outcome that we can achieve through a bunch of agile tools tied together else?
-
-TODO what was this slide for again? Cut it.
-
-
----
-
-# I Am Lying
-
-^ Context: These teams were at different companies but I'm presenting them as if they were all at the same company, and I'm simplifying the stories a bit and shaving off the sharper edges because reality is too messy for 45 minutes.
-^ Is that really a lie, though? You trust me, RIGHT? 
-^ TODO consider putting you trust me, right on a separate slide with big cheese salesman grin.
-^ TODO Is this still relevant? If we don't pick up the two companies thing later, take this out. If we do, make sure we do more setting up here. A slide or two of them coming to me with problems and the rest of the talk being a story to them rather than the audience
-^ This was originally very near the start.
-
-
-
----
-
-### ROADMAPS
-
-
----
-
-Ordered (known)
-TODO Roadmap. Delivery focussed. Options.
-
-
-
---- 
-
-Unordered
-TODO Roadmap. Strategy focussed. Decision points coming up: less clarity further out, caused by time, money, information. "By the time we reach here we need to know X. How do we do set ourselves up to have that data?"
-
-
----
-
-TODO when to stop. 
-TODO Think through this in terms of your roadmap and needs. Do you know enough to achieve goals. Make progress to next decision point. Out of time.
-
----
-
-TODO Show all three images. Strategy roadmap, cynefin safe to fail dynamics, and explore map drawing from earlier. Point out that its not a coincidence that these things have similarity. That optionality and reacting dynamically based on information gained are the heart of meaningful discovery in unknown/complex spaces.
-
----
-
-### RANDO STUFF
-
----
-
-TODO consider using Capability Red to simplify
-
----
-
-
-* Break out of regular sprints: you need to do stuff faster than you were before. If you were doing two week sprints, that's probably not what you should do now,
-* Ceremonies: retrospectives (is process working? What can we improve? Turn up the good?), daily playback (what we learned in the last day - show more than tell. Use that to figure out what to do next)
-
----
-
-^ TODO when to stop. 
-  What artifacts will I be holding? 
-* ARtifacts are important, conversations more important. ARtifacts useful only to the extent that they facillitate and prompt further conversation, as well as embody parts of that conversation. Enough to remember, but not constrain. 
-* This is why things like JIRA can be problematic: if filling in or reading tickets is replacing conversations, you've got a problem. If you're demanding certain fields are mandatory in all circumstances, you need to be sure you understand the tradeoffs (away from conversations). If you're doing those things to capture conversations in as light a format as possible, great.
-
-
----
-
-^ TODO political (consider moving much earlier)
-* Political: "Who controls the past, controls the future. Who controls the present, controls the past" Orwell (and then Rage.)
-In a sense of sociotechnical dynamics, Discovery is about using the past and present to control the future. This scares people. Can push them to weigh in too heavily, shut options early.
-
-Ways around this? Yes and. No stupid ideas.
-Data-driven, not opinions.
-Probes that check.
-TODO MORE
 
 
 
