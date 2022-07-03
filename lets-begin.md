@@ -580,6 +580,7 @@ We know our current state, we've got an idea about our goals, and direction, but
 ## ☕🍌🧁
 
 @garyfleming
+https://bit.ly/lets-begin-discovery
 
 ![](images/paper.jpg)
 
