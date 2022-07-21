@@ -1,6 +1,9 @@
 theme: Sketchnote, 1
+footer: @garyfleming
 
 ^ ☕🍌🧁
+
+[.hide-footer]
 
 ![hide](images/adaptation-trimmed-louder.mp3)
 ![](images/paper.jpg)
@@ -10,6 +13,7 @@ theme: Sketchnote, 1
 
 ---
 
+[.hide-footer]
 ![](images/paper.jpg)
 
 
@@ -23,10 +27,11 @@ theme: Sketchnote, 1
 
 @garyfleming
 
+[.hide-footer]
+
 ![](images/paper.jpg)
 
 ^ My name is gary fleming, I started as a developer, and then I  *WAS* an agile coach, running my own consultancy for about a decade. But I got better and went back to development. 
-Question policy (at end), movement, pain
 Just when I thought I was done with agile... my org needed someone to act as an agility lead *sigh* click 
 
 
@@ -93,8 +98,6 @@ Learning about...[^1]
 ^ You're  a) figuring out the kind of outcome you might want
 ^ and b) taking all of the infinite possibilities that lie before you and using various techniques to whittle down to a more manageable selection that are more *dispositional* to achieving that goal
 
-^ TODO does this tie into a later bit?
-
 
 ---
 
@@ -160,7 +163,9 @@ Learning about...[^1]
 
  > **Before** you **commit** to building a service, you need to understand the problem that needs to be solved.
 
-^ I've seen teams committed to deliver services and products that were basically impossible based on the whims and fancies of people very far away from the product. While there's no avoiding that in some orgs, it helps to be armed with the best knowledge, ideas, and most importantly data that you can as EARLY AS possible. While some managers will never take their fingers out of their ears and continue to demand the impossible, many/most will listen to reason backed by data and ideas. Let me reiterate: data and ideas are the way out of a bunch of bad situations.
+^ Seen teams committed to deliver services/products that were impossible based on the whims of people very far away from the product.
+^ No avoiding that in some orgs, it helps to be armed with the best knowledge, ideas, and most importantly data that you can as EARLY AS possible.
+^ Let me reiterate: data and ideas are the way out of a bunch of bad situations.
 
 ---
 
@@ -168,7 +173,7 @@ Learning about...[^1]
 
 ![fit original](images/discovery-map-pre-A.jpg)
 
-# Learn
+# Learn What You Need
 
 ^ Importantly You are NOT trying to learn everything upfront. That's simply not possible, there's far too much stuff to learn in just about any discovery or domain that requires thought. What you're trying to learn is really four things.
 
@@ -180,7 +185,8 @@ Learning about...[^1]
 
 # A. Domain
 
-^ a) be talk/think/act coherently within the domain. -- Can't really do much on, say, a mapping project, if you don't understand a bit about tilesets, granularity, potentially geometric issues, possibly routing algorithms. Or AWS (IAM, security groups, lambda, dynamo etc) Don't need absolute knowledge, but you do need enough to be coherent.
+^ a) be talk/think/act coherently within the domain. -- Can't really do much on, say, a mapping project, if you don't understand a bit about tilesets, granularity, potentially geometric issues, possibly routing algorithms. Don't need absolute knowledge, but you do need enough to be coherent.
+^ Or AWS (IAM, security groups, lambda, dynamo etc) 
 
 ---
 
@@ -201,10 +207,21 @@ Ex. Map: square vs tile.
 
 # B. Goal(s)
 
-^ b) to find clear, coherent goals that'll help you ensure you're going in the right direction -- As you can speak/think about the domain in the terms of the domain, you can start to figure out your goals within that framework of understanding. "We initially want to achieve something like X, and Y and Z are kinda interesting too" "We know we've succeeded when..."
+^ b) to find clear, coherent goals that'll help you ensure you're going in the right direction -- As you can speak/think about the domain in the terms of the domain, you can start to figure out your goals within that framework of understanding. (Why customer cares) "We initially want to achieve something like X, and Y and Z are kinda interesting too" "We know we've succeeded when..."
 "Walking app for hills, aligned to bagging munros with minimal repeated descents." "Might eventually do country hikes" "Succeeded when reasonable routes for all munros"
 
-^ TODO OKRs
+---
+
+[.header: #000000, alignment(center)]
+
+![fit original](images/discovery-map-D.jpg)
+
+# C. Nope
+
+^ C) to know what you're not doing.
+
+^ An important part of figuring out how to explore safely and heading towards your goal is to be clear about the things you're not going after, or at least not going after initially. This will keep you clear and focussed until there's a reason to expand. 
+^ Hillwalking example: Detailed urban centres with cafe names, menus etc, not that important. Less detail in cities, more on connecting routes
 
 ---
 
@@ -212,23 +229,11 @@ Ex. Map: square vs tile.
 
 ![fit original](images/discovery-map-C.jpg)
 
-# C. Explore
+# D. Explore
 
-^ c) to explore the space so you can find risks and pathways forward, 
+^ D) to explore the space so you can find risks and pathways forward, 
 
-^ bias to action, trying things, finding risks. roadmaps.
-
-----
-
-[.header: #000000, alignment(center)]
-
-![fit original](images/discovery-map-D.jpg)
-
-# D. Nope
-
-^ d) to know what you're not doing.
-
-^ An important part of figuring out how to explore safely and heading towards your goal is to be clear about the things you're not going after, or at least not going after initially. This will keep you clear and focussed until there's a reason to expand. If you built a mapping application and decided you were focussing on hill walking routes, then you might say you're not interesting in detailed urban routes; less detail in city centres, rather than more. Less need for features on cafes, restaurants etc
+^ bias to action, trying things that are likely to help us learn, or help us finding risks. roadmaps.
 
 
 ---
@@ -583,6 +588,8 @@ We know our current state, we've got an idea about our goals, and direction, but
 https://bit.ly/lets-begin-discovery
 
 ![](images/paper.jpg)
+
+[.hide-footer]
 
 ^ I'm stopping because I'm done.
 ^ Slides will be on twitter.
