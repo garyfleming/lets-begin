@@ -72,4 +72,10 @@
 * Add chapter breaks now it's got segments?
 * Roadmaps: Some tools that take a certainty and size based approach to roadmaps are pretty limited. No room to strategise, no other lenses, just "We think it's X big and we have capacity"
 
-* UPLOAD SLIDES TO SLIDESHARE
+## Feedback/retro post-AC/AOTB
+
+* Dispositionality example isn't great and will age fast. Think of a new example. Maybe rivers, streams, floating on top?
+* Replace the user story map graphic with a worked example (around hill walking)
+* Take out the "pull me back in" gif. Doesn't get a reaction.
+* Roadmap bit gets best feedback. Expand?
+* What needs removed? The stop section is fairly tacked on.
