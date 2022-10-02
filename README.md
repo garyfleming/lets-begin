@@ -43,4 +43,4 @@ Let me offer you some some tools, techniques, prompts, sympathy, and direction t
 
 
 * Agile Cambridge, 29th June 2022
-* Agile on the Beach, 7th July 2022
+* [Agile on the Beach](https://youtu.be/ZycSWfZfn88), 7th July 2022 -- Missing start of the talk and slides aren't in-sync.
