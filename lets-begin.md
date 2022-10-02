@@ -32,12 +32,19 @@ footer: @garyfleming
 ![](images/paper.jpg)
 
 ^ My name is gary fleming, I started as a developer, and then I  *WAS* an agile coach, running my own consultancy for about a decade. But I got better and went back to development. 
-Just when I thought I was done with agile... my org needed someone to act as an agility lead *sigh* click 
+Just when I thought I was done with agile... my org needed someone to act as an agility lead *sigh* 
 
 
 ---
 
-![inline](images/pull-me-back-in.gif)
+# Let's Begin: Diving Into Discovery
+
+@garyfleming
+
+[.hide-footer]
+
+![](images/paper.jpg)
+
 
 ^ This talk is called Let's Begin: Diving into Discovery and it's about Discovery, and what I worked learning with a few teams at different organisations who were faced with superficially similar goals, but ended up taking radically different approaches.
 
@@ -67,7 +74,7 @@ Opinions expressed in this talk are my own, and not representative of my employe
 Learning about...[^1]
 
 * Your users and what they're trying to achieve
-* constrains you'd face running the service (technology/legislative)
+* Constraints you'd face running the service (technology/legislative)
 * Underlying intent you've been asked to address
 * Opportunities to improve
 
@@ -540,10 +547,17 @@ We know our current state, we've got an idea about our goals, and direction, but
 
 ![](images/stop.jpg)
 
-> ...early and continuous delivery of valuable software.
+> "...early and continuous delivery of valuable software."
 
 ^ In the short term, switch more focus away from discovery and into production as and when you believe you've learned enough to get value. Putting things into production IS one way of doing discovery. Do so safely.
 
+---
+
+![](images/stop.jpg)
+
+> "Existence is the first and truest proof of the right to exist. Those who cannot claim and hold existence do not deserve it."
+
+^ If you can't put things into production, available for real customers to really exist, you will stop existing. Reality is the only true test. Existence is the only meaningful proof of the right to exist.
 
 ---
 

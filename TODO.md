@@ -76,6 +76,5 @@
 
 * Dispositionality example isn't great and will age fast. Think of a new example. Maybe rivers, streams, floating on top?
 * Replace the user story map graphic with a worked example (around hill walking)
-* Take out the "pull me back in" gif. Doesn't get a reaction.
 * Roadmap bit gets best feedback. Expand?
 * What needs removed? The stop section is fairly tacked on.
