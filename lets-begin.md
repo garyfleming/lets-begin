@@ -46,7 +46,7 @@ Just when I thought I was done with agile... my org needed someone to act as an 
 ![](images/paper.jpg)
 
 
-^ This talk is called Let's Begin: Diving into Discovery and it's about Discovery, and what I worked learning with a few teams at different organisations who were faced with superficially similar goals, but ended up taking radically different approaches.
+^ This talk is called Let's Begin: Diving into Discovery and it's about Discovery, and what I learned working with a few teams at different organisations who were faced with superficially similar goals, but ended up taking radically different approaches.
 
 
 
